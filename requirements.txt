@@ -1,0 +1,12 @@
+streamlit
+langgraph
+langchain-core
+transformers>=4.40.0
+torch
+beautifulsoup4
+requests
+duckduckgo-search
+python-dotenv
+numpy
+groq
+aiohttp
