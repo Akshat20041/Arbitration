@@ -6,13 +6,13 @@ The application takes a user's description of an arbitration case, enhances the 
 
 ## Features
 
-- **🧠 Smart Search**: Uses Groq's LLM to expand a simple case description into optimized, targeted search queries.
-- **🔍 Multi-Source Search**: Searches across legal databases, case law repositories, and legal news sites via the SERP API to find relevant precedents.
-- **📄 Web Crawling**: Asynchronously crawls the top search results to fetch full case texts.
-- **🤖 AI-Powered Ranking**: Employs a Legal-BERT model to rank retrieved documents based on semantic similarity to the user's case.
-- **💰 AI Analysis & Estimation**: Generates a comprehensive report with case analogies, strategic insights, and an estimated arbitration amount using a powerful LLM.
-- **📊 Interactive UI**: A user-friendly interface built with Streamlit that displays progress, results, and the final analysis.
-- **📥 Downloadable Reports**: Allows users to download the complete analysis as a Markdown file.
+- ** Smart Search**: Uses Groq's LLM to expand a simple case description into optimized, targeted search queries.
+- ** Multi-Source Search**: Searches across legal databases, case law repositories, and legal news sites via the SERP API to find relevant precedents.
+- ** Web Crawling**: Asynchronously crawls the top search results to fetch full case texts.
+- ** AI-Powered Ranking**: Employs a Legal-BERT model to rank retrieved documents based on semantic similarity to the user's case.
+- ** AI Analysis & Estimation**: Generates a comprehensive report with case analogies, strategic insights, and an estimated arbitration amount using a powerful LLM.
+- ** Interactive UI**: A user-friendly interface built with Streamlit that displays progress, results, and the final analysis.
+- ** Downloadable Reports**: Allows users to download the complete analysis as a Markdown file.
 
 ## Project Structure
 
