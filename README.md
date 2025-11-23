@@ -108,3 +108,7 @@ The application's workflow is managed by a `LangGraph` state machine, which proc
 3.  **`rank`**: The text from the crawled documents is embedded using a Legal-BERT model. The documents are then ranked based on the cosine similarity between their embeddings and the user's query embedding.
 4.  **`llm_analysis`**: The top-ranked documents are passed to a Groq LLM along with the original query. The LLM generates a detailed report, including case analogies, strategic insights, and an estimated arbitration amount.
 5.  **Display**: The final results, including the ranked list of cases and the AI-generated analysis, are displayed to the user in the Streamlit interface.
+
+## Demo Video : 
+
+https://drive.google.com/file/d/1pOODTbeE3kHgENVeXIJI6f4oT44JOwRg/view?usp=sharing
