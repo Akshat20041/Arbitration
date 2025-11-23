@@ -1,4 +1,4 @@
-# ⚖️ Arbitration Amount Predictor
+# Arbitration Amount Predictor
 
 This project is a Streamlit web application designed to predict potential arbitration awards by leveraging Large Language Models (LLMs) and web search analysis. It provides an estimated arbitration amount and insights by analyzing similar, publicly available legal cases.
 
